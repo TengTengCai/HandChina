@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navigation_item.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\navigation_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal.jpg",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\personal.jpg"
+    }
+]

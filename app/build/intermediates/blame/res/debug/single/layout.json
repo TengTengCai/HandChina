@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_personal.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoplayer.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\videoplayer.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_activity.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videolist_item.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\videolist_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\exploded-aar\\HandChina\\vitamio\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\layout\\webview.xml"
+    }
+]

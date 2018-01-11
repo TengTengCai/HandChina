@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">掌上中国</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_home">主页</string>
+    <string name="fragment_activity">活动中心</string>
+    <string name="fragment_personal">个人中心</string>
+    <string name="image_contentDescription">Icon</string>
+
+</resources>

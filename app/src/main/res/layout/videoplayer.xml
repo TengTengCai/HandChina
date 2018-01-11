@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+    <!-- 使用Vitamio中的不局将Vitamio框架的VideoView包裹-->
+    <io.vov.vitamio.widget.CenterLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <io.vov.vitamio.widget.VideoView
+            android:id="@+id/buffer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+    </io.vov.vitamio.widget.CenterLayout>
+    <!--设置一些用户相应的控件 -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal" >
+        <!-- 加载视频师显示出来 -->
+        <ProgressBar
+            android:id="@+id/probar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <!-- 显示当前下载网速 -->
+        <TextView
+            android:id="@+id/download_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="" />
+        <!-- 显示当前加载进度 -->
+        <TextView
+            android:id="@+id/load_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="" />
+    </LinearLayout>
+</RelativeLayout>

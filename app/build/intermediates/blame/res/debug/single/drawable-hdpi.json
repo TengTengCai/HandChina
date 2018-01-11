@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\n_home_32.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\n_home_32.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\n_man_32.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\n_man_32.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_qun.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_qun.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_lizhi.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_lizhi.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_ilove_stydy.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_ilove_stydy.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_honghuang_power.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_honghuang_power.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_back_image.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\title_back_image.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_dang.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_dang.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_flash.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\title_flash.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\n_activity_32.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\n_activity_32.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\laoding.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\laoding.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\HandChina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gv_xue.png",
+        "source": "E:\\AndroidStudioProjects\\HandChina\\app\\src\\main\\res\\drawable-hdpi\\gv_xue.png"
+    }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\libs\httpclient-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="733db77aa8d9b2d68015189df76ab06304406e50">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\httpclient-4.5.2_b393aa5b0e6c6896a44848979a30d8151d0bb815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_96b6c3c37878a05fa21d91dbcdde5689e7fe85bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="542e9552eece87cec23e1bc7bb54e327693b6d60">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\instant-run_5352fc6b60c9d487280f72f03b209b07dd51321d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_e8bd3f2f34a8d7646ca0c2218a68699a0083b750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_ab6611942c766744fe01a4ccc55973564678fd0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d62f2e53f837cf1f8104e905ad98cfdb7794797a">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9749ad138a19ddafb0132e65ca7c77c1f0302e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_5e71d8f651f6cd39fc6a2d9f93c596ed703aa84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\DevelopTools\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_eb9dc143a77b34253f63913fc33ae1cc76d6a310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_20fcbbf0a6e2fd7aa6600e3d4737d2fb05927890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\HandChina\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\AndroidStudioProjects\HandChina\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_d3ff6cb93c6a20656d211f92bf96c45924f8bdca.jar" />
+    </item>
+
+</items>
