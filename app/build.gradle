@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "25.0.3"
+    compileSdkVersion 20
+    buildToolsVersion '26.0.3'
 
     defaultConfig {
         applicationId "com.TJApp.handchina"
@@ -21,5 +21,5 @@ android {
 dependencies {
     compile files('libs/httpclient-4.5.2.jar')
     compile project(':vitamio')
-    compile 'com.android.support:support-v4:26.0.0-alpha1'
+    compile 'com.android.support:support-v4:20.0.0'
 }
